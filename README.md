@@ -1,0 +1,2 @@
+# CV-WEB
+cv dalam bentuk website sehingga memudahkan untuk diakses dimana saja
